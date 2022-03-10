@@ -1,0 +1,107 @@
+p:What's your name ? 
+R:My name is Matheus
+
+P:What's your first name ? 
+R:My first name is Matheus
+
+P:What's your midle name ?
+R: My middle name is Rodrigues
+
+P: What's your last name ? 
+R: My last name is Santos
+
+P:What's your full name ?
+R: My full name is Matheus Rodrigues dos Santos 
+
+---------------------------------------------------
+
+Addres: 
+
+P:Where do you live ?
+R: I live at 377 Rodrigues Francisco Montemor FIlho In Guaratinguetá, São Paulo 
+
+P: what's your address 
+R: It is 377 Rodrigues Francisco Montemor Filho in Guaratinguetá, São Paulo 
+
+P:What's the zip code ? 
+R:It is 12519520
+
+Where are you from ? 
+I am from Brazil 
+--------------------------------------------------------
+Phone number
+
+What's your phone number ? 
+My phone number is (12)982248697
+
+--------------------------------------------------------
+How old are you ?
+I am 27 years old. 
+
+-----------------------------------------------------
+Where do you work ? 
+I work at RCCBRASIL 
+
+What do you do for a living ? 
+I am a Enginer Software 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
